@@ -34,3 +34,6 @@ https://www.indellient.com/blog/how-to-dockerize-an-angular-application-with-ngi
 
 ## dockerizing with environment variables
 https://pumpingco.de/blog/environment-variables-angular-docker/
+
+## reading environment variable
+https://zetcode.com/javascript/dotenv/
