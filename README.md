@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## configure the proxy config
+https://jmrobles.medium.com/mastering-angular-proxy-configuration-6c8df0b175fe
+
+## dockerizing
+https://www.indellient.com/blog/how-to-dockerize-an-angular-application-with-nginx/
+
+## dockerizing with environment variables
+https://pumpingco.de/blog/environment-variables-angular-docker/
